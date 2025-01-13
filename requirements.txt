@@ -6,7 +6,7 @@ click==6.2
 distlib==0.3.0
 Django==4.2.17
 django-chartjs==2.1.0
-django-filter==2.2.0
+django-filter==2.4.0
 django-timezone-field==4.0
 djangorestframework==3.11.2
 filelock==3.0.12
